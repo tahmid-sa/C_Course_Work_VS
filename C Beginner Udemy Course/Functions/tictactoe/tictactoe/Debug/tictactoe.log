@@ -1,0 +1,6 @@
+﻿  tictactoe.c
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\cstdbool(22,7): error C2061: syntax error: identifier '_Hdr_cstdbool'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\cstdbool(22,7): error C2059: syntax error: ';'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\cstdbool(22,21): error C2513: ' ': no variable declared before '='
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\cstdbool(22,39): error C2275: '_Header_cstdbool': illegal use of this type as an expression
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\cstdbool(21): message : see declaration of '_Header_cstdbool'
